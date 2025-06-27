@@ -41,7 +41,7 @@ Worked with a real-world company to enhance UX, streamline platform onboarding, 
 ---
 
 
-### 🛠️ My Toolbox & 🧰 Tech Stack
+### 🛠️ My Toolbox &  Tech Stack
 
 **Languages:** Python, C++, JavaScript, PHP  
 **Frameworks:** React, Node.js, JavaFX  
