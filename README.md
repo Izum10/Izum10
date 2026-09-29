@@ -47,6 +47,14 @@ Led two enterprise-grade RPA deployments integrating **Blue Prism, SAP, and Azur
 - Developed an endpoint-validation automation that continuously tests live production endpoints, cutting downtime incidents across RPA processes by **70%**
 - Partnered with teams across North America, Europe, and Asia to map workflows and turn inefficiencies into scalable automation
 
+### AI Developer & Architect
+**Western AI** · *London, ON · Sep 2022 to Mar 2023*
+
+Project lead for a team of 8 building a competitive AI agent, driving architecture, testing, and execution end to end.
+- Worked within a multidisciplinary team on applied machine learning, agent behavior, and game intelligence research
+- Presented the team's work at a 3-day multi-university conference, **placing 2nd of 56 teams**
+- The architecture was later reused internally as a template for future agent-based research
+
 ### Program Development Intern
 **Deloitte** · *Muscat, Oman · Jun 2020 to Mar 2021*
 
@@ -91,9 +99,9 @@ Scoping reviews in health research involve a lot of manual searching, screening,
 The more useful output was arguably the map of which review stages benefit from automation and which still need human judgment.
 
 ### AI Agent for Counter-Strike
-**Western AI** · *Project lead, team of 8*
+**Western AI** · *Python*
 
-A competitive game AI in Python. Graph-based navigation, heuristic pathfinding, and dynamic decision trees, tuned against real gameplay data for more human-like response timing. **Placed 2nd of 56 teams** at the Canadian Undergraduate Conference on AI. The architecture was reused internally as a template for later agent projects.
+The technical side of the Western AI project: graph-based navigation, heuristic pathfinding, and dynamic decision trees, tuned against real gameplay data for more human-like response timing and error margins.
 
 ### Campus GIS Navigation App
 **Java** · *JavaFX, OpenWeather API*
